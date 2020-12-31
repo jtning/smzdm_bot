@@ -1,6 +1,6 @@
 什么值得买每日签到脚本
 ===
-
+  
 <p align="center">
     <img src="https://img.shields.io/badge/Created on-2020.10-green"/>
     <img src="https://img.shields.io/badge/Python-3.7-blue"/>
@@ -42,5 +42,5 @@
 first push
 
 + 2020-12-12  
-修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
+修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题
 现在没有`SERVERCHAN_SECRETKEY`也可以正常签到并不报错。 
